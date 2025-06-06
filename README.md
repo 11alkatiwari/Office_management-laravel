@@ -25,12 +25,6 @@ A simple CRUD-based Office Management System built using Laravel and MySQL, with
 
 ---
 
-## 📷 Screenshots
-
-(Add your screenshots here – optional but recommended)
-
----
-
 ## 📁 Installation Guide
 
 1. **Clone the repository:**
