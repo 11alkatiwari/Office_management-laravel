@@ -44,7 +44,7 @@ npm install && npm run dev
 3. **Set up the environment:**
 
 ```bash
-cp .env.example .env
+cp .env
 php artisan key:generate
 ```
 
