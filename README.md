@@ -25,6 +25,10 @@ A simple CRUD-based Office Management System built using Laravel and MySQL, with
 
 ---
 
+## Database Import 
+
+After cloning the project, import the provided `office_management_db.sql` file into your MySQL using phpMyAdmin or MySQL CLI
+
 ## 📁 Installation Guide
 
 1. **Clone the repository:**
